@@ -313,11 +313,11 @@
             // 
             this.label4.AutoSize = true;
             this.label4.ForeColor = System.Drawing.Color.Blue;
-            this.label4.Location = new System.Drawing.Point(220, 484);
+            this.label4.Location = new System.Drawing.Point(278, 479);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(280, 13);
+            this.label4.Size = new System.Drawing.Size(121, 13);
             this.label4.TabIndex = 25;
-            this.label4.Text = "(C) H. Bismark, ASSA ABLOY Shared Technologies, 2018";
+            this.label4.Text = "(C) 2018 Hardy Bismark ";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // groupBox1
